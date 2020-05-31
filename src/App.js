@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          New Application
+          This is the Homepage for Itunes Web App
         </p>
         <a
           className="App-link"
