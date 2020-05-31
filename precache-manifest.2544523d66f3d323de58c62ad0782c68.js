@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1ba3f1d52a528f96ecac54a106d97a0",
+    "revision": "28f014102a7e18f9cb4056d2d03f1e8e",
     "url": "/itunes-web-app/index.html"
   },
   {
-    "revision": "560c3b40069f15cda450",
-    "url": "/itunes-web-app/static/css/main.5f361e03.chunk.css"
+    "revision": "8a144c6bc664a3c5e9bb",
+    "url": "/itunes-web-app/static/css/main.523f09c5.chunk.css"
   },
   {
     "revision": "57f1c84a5cb07e270316",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/itunes-web-app/static/js/2.76fdcf6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "560c3b40069f15cda450",
-    "url": "/itunes-web-app/static/js/main.176ed695.chunk.js"
+    "revision": "8a144c6bc664a3c5e9bb",
+    "url": "/itunes-web-app/static/js/main.468e2f26.chunk.js"
   },
   {
     "revision": "a2cec1f0bf22ee0c255a",
     "url": "/itunes-web-app/static/js/runtime-main.17d7f432.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/itunes-web-app/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/itunes-web-app/static/media/logo.ee7cd8ed.svg"
   }
 ]);
