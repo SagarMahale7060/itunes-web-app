@@ -38,3 +38,8 @@
     transform: rotate(360deg);
   }
 }
+
+.home {
+  flex: 1;
+  background-color: #282c34;
+}
