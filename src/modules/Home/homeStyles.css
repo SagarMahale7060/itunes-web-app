@@ -1,0 +1,10 @@
+#components-layout-demo-fixed .logo {
+    width: 120px;
+    height: 31px;
+    background: #1d1d1f;
+    margin: 16px 24px 16px 0;
+    float: left;
+  }
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
